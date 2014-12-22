@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+
+
+
+table{
+	color:#0066CC;
+	background-color:beige;
+	border-collapse:collapse;
+	}
+
+	tr:first-child(){
+	background-color:beige;
+	}
+	
+	input{
+	background-color:lightblue;
+	}
+	
+	.firstrow {
+	border-top:2px solid gray;
+	background-color:#C0C0C0;
+	}
+	.secondrow{
+	border-bottom:2px solid gray;
+	background-color:#C0C0C0;
+	}
+	.firstrow th{
+	background-color:transparent;
+	color:#680000 ;
+	}
+	.secondrow th{
+	background-color:transparent;
+	color:#680000 ;
+	}
+	td{
+	text-align: center;
+	font-weight:bold;
+	color:#000099;
+	}
+	#error{
+	color:red;
+	text-align:center;
+	align:center;
+	
+	}
+	#message{
+		color:Blue;
+		align:left;
+		
+	}
+	

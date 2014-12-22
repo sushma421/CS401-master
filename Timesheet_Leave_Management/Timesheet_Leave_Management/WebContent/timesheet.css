@@ -1,0 +1,85 @@
+@CHARSET "ISO-8859-1";
+
+
+
+	table
+	{
+		color:#0066CC;
+		background-color:beige;
+		border-collapse:collapse;
+		border-width: 1px;
+		width:950px;
+	}
+
+	tr:first-child()
+	{
+		background-color:beige;
+	}
+	.blank_row
+	{
+		height: 60px; 
+		background-color: beige;
+	}
+	.blank_row1
+	{
+		height: 15px; 
+		background-color: beige;
+	}
+	.blank_row2
+	{
+		height: 25px; 
+		background-color: beige;
+	}
+
+	input
+	{
+		background-color:lightblue;
+		width:80px;
+	}
+	.firstrow 
+	{
+		border-top:2px solid gray;
+		background-color:#C0C0C0;
+	}
+	.secondrow
+	{
+		border-bottom:2px solid gray;
+		background-color:#C0C0C0;
+	}
+	.firstrow th
+	{
+		background-color:transparent;
+		color:#680000 ;
+		width:20px;
+	}
+		 
+	.secondrow th
+	{
+		background-color:transparent;
+		color:#680000 ;
+	}
+	td
+	{
+		text-align: center;
+		font-weight:bold;
+		color:#000099;
+	}
+	#crtprof 
+	{
+		font-weight:bold;
+		width:500px;
+		color:#000099;
+	}
+	#crtprof td
+	{
+		text-align:left;
+	}
+	#viewprof th
+	{
+		 width:20px;
+		 padding:20px;
+	}
+	#viewprof td
+	{
+		width:10px;
+	}

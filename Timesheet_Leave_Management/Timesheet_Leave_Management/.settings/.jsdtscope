@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="WEB-INF/js/jquery-1.10.2.js|WEB-INF/js/jquery-ui.css|WEB-INF/js/jquery-ui.js|WEB-INF/js/jquery-ui.min.css|WEB-INF/js/jquery-ui.structure.css|WEB-INF/js/jquery-ui.structure.min.css|WEB-INF/js/jquery-ui.theme.css|WEB-INF/js/jquery-ui.theme.min.css|WEB-INF/js/leave.js" kind="src" path="WebContent"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.WebProject">
+		<attributes>
+			<attribute name="hide" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
